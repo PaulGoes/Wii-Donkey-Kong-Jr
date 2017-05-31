@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <app version="1">
+ <name>Donkey Kong Jr</name>
+ <coder>Paul Goes</coder>
+ <version>1.0</version>
+ <release_date>201705192100</release_date>
+ <no_ios_reload/>
+ <short_description>Homebrew Donkey Kong Jr</short_description>
+ <long_description>Donkey Kong Jr. - A Wii Homebrew remake of the Game and Watch Donkey Kong Jr handheld game.</long_description>
+ </app>
