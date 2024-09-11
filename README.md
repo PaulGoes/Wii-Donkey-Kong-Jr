@@ -1,6 +1,7 @@
 # Wii-Donkey-Kong-Jr
 Wii Homebrew Donkey Kong Jr Game and Watch
 
+![WIIDKJR](https://github.com/PaulGoes/Wii-Donkey-Kong-Jr/blob/master/media/WIIDKJR.png)
 
 ## INTRODUCTION
 
