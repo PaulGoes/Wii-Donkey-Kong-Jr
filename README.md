@@ -27,13 +27,13 @@ This is the result and I hope you like it.
 A video showing the game can be found on YouTube:
 
 <a href="https://www.youtube.com/watch?v=PbqBAagenMI">
-         <img src="https://img.youtube.com/vi/PbqBAagenMI/0.jpg" style="width:70%;">
+         <img src="https://img.youtube.com/vi/PbqBAagenMI/0.jpg" style="width:100%;">
       </a>
 
 A video showing the progress of designing the game can be found on YouTube:
 
 <a href="https://www.youtube.com/watch?v=u77aPG7SFoY">
-         <img src="https://img.youtube.com/vi/u77aPG7SFoY/0.jpg" style="width:70%;">
+         <img src="https://img.youtube.com/vi/u77aPG7SFoY/0.jpg" style="width:100%;">
       </a>
 
 Some information:
