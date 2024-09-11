@@ -2,7 +2,7 @@
 Wii Homebrew Donkey Kong Jr Game and Watch
 
 
-=== INTRODUCTION ===
+## INTRODUCTION
 
 In 1982 I got my first ‘handheld’ console: the G&W Donkey Kong Jr. 
 In 1983, I programmed my own version for the TRS-80 home computer.
@@ -36,13 +36,15 @@ Some information:
 
 The game is created using devkitpro: 
           https://devkitpro.org/.
+	  
 Good introduction tutorials to using devkitpro and Wii programming: 
-          http://www.codemii.com/category/wii-programming-tutorials/
+          http://www.codemii.com/category/wii-programming-tutorials/.
+	  
 Additional information about Wii programming:
-          https://www.elotrolado.net/wiki/Curso_de_programacion
+          https://www.elotrolado.net/wiki/Curso_de_programacion.
 
 		  
-=== HOW TO INSTALL AND START THE GAME USING THE HOMEBREW CHANNEL ===
+## HOW TO INSTALL AND START THE GAME USING THE HOMEBREW CHANNEL
 
 1) Create the folder SD:\apps\dkjunior on the SD card.
 2) Put the following files in this folder:
@@ -57,7 +59,7 @@ Additional information about Wii programming:
 7) Start the Donkey Kong Junior homebrew application.
 
 
-=== HOW TO ADD THE CHANNEL FORWARDER IN THE SYSTEM MENU ===
+## HOW TO ADD THE CHANNEL FORWARDER IN THE SYSTEM MENU
 
 1) Create the folder SD:\wad\ on the SD card.
 2) Put the following file in this folder:
@@ -69,7 +71,7 @@ Additional information about Wii programming:
 [Notice: the channel forwarder wad is created using CustomizeMii.]
 
 
-=== FILE INFORMATION ===
+## FILE INFORMATION
 
 - Folder - build: used to build the game application.
 - Folder - include: contains all the graphics and sounds.
